@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **xly_buaa@buaa.edu.cn**
 
-- 📄 **[Click here to view my Resume / CV](./Resume_Lingyi_Xiao.pdf)**
+- 📄 **[Click here to view my Resume / CV](./resume_en.pdf)**
 
 - ⚡ Fun fact **My hands-on projects range from coding socket protocols for remote-controlled unmanned ships to tuning PID controllers for magnetic levitation systems.**
 
